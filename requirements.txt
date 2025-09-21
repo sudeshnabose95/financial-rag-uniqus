@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+pdfplumber
+tqdm
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pydantic
+tiktoken
